@@ -49,7 +49,7 @@ Body Yoga is a site that hopes to help keep people motivated to meet up for Yoga
 1. The gallery offers users supporting images to visually experience the meetup events and to see what it's like during yoga sessions.
 2. This section holds significance for the user as it enables them to readily discern the variety of events organized by the company.
 
-IMAGE
+<img width="1440" alt="Screenshot 2023-10-28 at 11 13 57" src="https://github.com/Adnaan-77/myproject1/assets/141127128/d40a2d4e-4cbf-4d6a-ac45-4bbb58098333">
 
 * ### The Sign Up Page
 
