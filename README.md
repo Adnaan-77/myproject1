@@ -29,7 +29,8 @@ Body Yoga is a site that hopes to help keep people motivated to meet up for Yoga
 1. The club ethos section provides insights into the advantages of becoming part of Body Yoga meetups, as well as the overall benefits of doing yoga.
 2. The user will recognize the significance of registering for Body Yoga meetups, potentially inspiring them to embrace doing yoga as their preferred fitness activity.
 
-IMAGE
+<img width="1440" alt="Screenshot 2023-10-28 at 11 12 32" src="https://github.com/Adnaan-77/myproject1/assets/141127128/26e9d9d9-0989-4806-a34d-cdbaa6c5340e">
+
 
 * ### Meetup Times Section
 
