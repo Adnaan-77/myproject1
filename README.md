@@ -6,6 +6,8 @@
 Body Yoga is a site that hopes to help keep people motivated to meet up for Yoga sessions on a regular basis in New York, Unied States. The site will be targeted towards people who actively do yoga and who are looking for a way to socialise and keep themselves fit. Body Yoga will be useful to see exactly when and where they should join the yoga club and interact with other Yoga enjoyers.
 
 IMAGE
+<img width="1203" alt="Screenshot 2023-10-28 at 09 12 23" src="https://github.com/Adnaan-77/myproject1/assets/141127128/3414f378-d38c-4ffe-8465-c7845fe6c791">
+
 
 # Features
 
