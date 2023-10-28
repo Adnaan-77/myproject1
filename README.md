@@ -69,7 +69,7 @@ During the extensive testing process, I did come across a few bugs and issues th
 
 * ## Validator Testing
 
-1. HTML. [W3C validator](https://validator.w3.org/nu/#textarea)
+1. HTML. [W3C validator] <img width="1438" alt="Screenshot 2023-10-28 at 11 27 10" src="https://github.com/Adnaan-77/myproject1/assets/141127128/fed622f1-0083-45ba-8e6e-caf8386c0e60">
 2. CSS. [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator#errors)
 
 * ## Unfixed Bugs
