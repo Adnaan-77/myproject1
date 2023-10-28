@@ -23,7 +23,7 @@ Body Yoga is a site that hopes to help keep people motivated to meet up for Yoga
 1. The landing page features a photograph with overlaid text, providing users with a clear indication of the specific location to which this site pertains.
 2. This segment captivates the user's attention by introducing Body Yoga with an eye-catching animation to appeal the users.
 
-IMAGE
+<img width="1440" alt="Screenshot 2023-10-28 at 11 10 39" src="https://github.com/Adnaan-77/myproject1/assets/141127128/2835f5c2-d8ff-4a5d-bb1d-130dd91dcc06">
 
 * ### Club Ethose Section
 1. The club ethos section provides insights into the advantages of becoming part of Body Yoga meetups, as well as the overall benefits of doing yoga.
