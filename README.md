@@ -16,7 +16,7 @@ Body Yoga is a site that hopes to help keep people motivated to meet up for Yoga
 1. Present on all three pages, the fully responsive navigation bar consists of links to the Logo, Home page, Gallery, and Sign Up page, maintaining uniformity across all pages to ensure effortless navigation.
 2. This section facilitates seamless navigation across all devices, enabling users to move between pages without relying on the 'back' button.
 
-IMAGE
+<img width="1440" alt="Screenshot 2023-10-28 at 11 08 53" src="https://github.com/Adnaan-77/myproject1/assets/141127128/ffb7cc7b-5c18-4b74-85a0-4e3c4dbe5272">
 
 * ### The landing page image 
 
