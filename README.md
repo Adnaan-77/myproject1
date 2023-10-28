@@ -37,7 +37,7 @@ Body Yoga is a site that hopes to help keep people motivated to meet up for Yoga
 1. This section will provide users with precise information on the meetup schedule, locations, and the yoga sessions' duration in minutes."
 2. This section will be updated as these times change to keep the user up to date.
 
-IMAGE 
+<img width="1011" alt="Screenshot 2023-10-28 at 11 12 52" src="https://github.com/Adnaan-77/myproject1/assets/141127128/96491fec-9aa1-40f5-a6bd-aacfc82291ff">
 
 * ### The Footer 
 1. The footer section contains links to Body Yoga's social media platforms, ensuring user-friendly navigation by opening in new tabs with no stress at all.
