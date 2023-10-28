@@ -55,7 +55,7 @@ Body Yoga is a site that hopes to help keep people motivated to meet up for Yoga
 
 1. This page offers users the opportunity to embark on their running journey with the Body Yoga community in New York. Users can specify their preference for Indoors, Outdoors, or both types of yoga environments, and provide their full name and email address for registration."
 
-IMAGE
+<img width="1440" alt="Screenshot 2023-10-28 at 11 14 13" src="https://github.com/Adnaan-77/myproject1/assets/141127128/454b318c-8163-42bf-84e0-038135818172">
 
 ## Features Left to Implement
 1. I'd like to make the sign up page to be more friendly to use in the future.
